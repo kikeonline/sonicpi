@@ -7,6 +7,8 @@ sleep 1
 octave = 4  #Korg volca riff octaves
 korg_bass = "umc404hd_192k"
 
+# Different snippets from Sonic pi's tutorial
+
 #Riser noise
 live_loop :bar, auto_cue: false do
   if rand < 0.25
